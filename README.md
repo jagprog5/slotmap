@@ -1,4 +1,8 @@
-# slotmap
+# slotmap-fork
+
+Forked from [here](https://github.com/orlp/slotmap) because of
+[this](https://github.com/orlp/slotmap/issues/135) and
+[this](https://github.com/jagprog5/ets/issues/2).
 
 A Rust library providing three containers with persistent unique keys to access
 stored values, `SlotMap`, `HopSlotMap` and `DenseSlotMap`. Upon insertion a key

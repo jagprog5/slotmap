@@ -1,5 +1,5 @@
-#![doc(html_root_url = "https://docs.rs/slotmap/1.0.7")]
-#![crate_name = "slotmap"]
+#![doc(html_root_url = "https://docs.rs/slotmap_slice_fork/1.0.7")]
+#![crate_name = "slotmap_slice_fork"]
 #![cfg_attr(all(nightly, feature = "unstable"), feature(try_reserve))]
 #![cfg_attr(all(not(test), not(feature = "std")), no_std)]
 #![cfg_attr(all(nightly, doc), feature(doc_cfg))]

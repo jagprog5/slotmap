@@ -1,11 +1,11 @@
 [package]
-name = "slotmap"
+name = "slotmap-slice-fork"
 version = "1.0.7"  # Remember to grep and update version everywhere.
 edition = "2018"
-authors = ["Orson Peters <orsonpeters@gmail.com>"]
-description = "Slotmap data structure"
+authors = ["John Giorshev <johngiorshev@gmail.com>"]
+description = "Fork of slotmap"
 license = "Zlib"
-repository = "https://github.com/orlp/slotmap"
+repository = "https://github.com/jagprog5/slotmap"
 readme = "README.md"
 keywords = ["slotmap", "storage", "allocator", "arena", "reference"]
 categories = ["data-structures", "memory-management", "caching"]
